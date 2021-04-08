@@ -1,0 +1,12 @@
+[submodule "enclosure"]
+	path = enclosure
+	url = git@github.com:exmgr/exm-iot-node-enclosure.git
+[submodule "pcb"]
+	path = pcb
+	url = git@github.com:exmgr/exm-iot-node-pcb.git
+[submodule "thingsboard-assets"]
+	path = thingsboard-assets
+	url = git@github.com:exmgr/exm-iot-node-thingsboard-assets.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:exmgr/exm-iot-node-firmware.git
