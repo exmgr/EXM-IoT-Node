@@ -1,7 +1,5 @@
 # Ex Machina IoT sensor node
-
-![Weather Station](./media/atmos41.jpg)
-![Weather Station](./media/pcb.png)
+<img src="./media/atmos41.jpg" height="200"> <img src="./media/pcb.png" height="200"> <img src="./media/atmos41+exm-IoT-node2.jpg" height="200">
 
 ## Features
 
