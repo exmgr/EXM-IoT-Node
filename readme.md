@@ -11,12 +11,10 @@
 
 - <a href="https://www.metergroup.com/environment/products/atmos-41-weather-station/" target="_blank">METER Group Atmos41</a>
 - <a href="http://www.foshk.com/Weather_Professional/" target="_blank">Fine Offset all in one sensors</a>
--- Easy to add any SDI-12 or RF weather station
 
 ## Soil moisture sensor
 
-- Metergroup Teros12 SDI12
-- Easy to add any SDI-12 or UART sensor
+- <a href="https://www.metergroup.com/environment/products/teros-12/" target="_blank">METER Group Teros12</a>
 
 ## Water quality sensor
 
