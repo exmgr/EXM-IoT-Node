@@ -10,14 +10,17 @@
 ## Weather station
 
 - <a href="https://www.metergroup.com/environment/products/atmos-41-weather-station/" target="_blank">METER Group Atmos41</a>
-- <a href="http://www.foshk.com/Weather_Professional/" target="_blank">Fine Offset all in one</a>
-- Easy to add any SDI-12 or RF weather station
+- <a href="http://www.foshk.com/Weather_Professional/" target="_blank">Fine Offset all in one sensors</a>
+-- Easy to add any SDI-12 or RF weather station
 
 ## Soil moisture sensor
 
 - Metergroup Teros12 SDI12
-- OEM capacitive soil moisture and salinity sensor UART
 - Easy to add any SDI-12 or UART sensor
+
+## Water quality sensor
+
+- <a href="https://in-situ.com/en/aqua-troll-600-multiparameter-sonde" target="_blank">in-situ aqua troll (400/500/600)</a>
 
 ## Water level sensor
 
